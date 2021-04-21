@@ -11,19 +11,19 @@ The entire weather analysis was done to analyze how *tempreture*, *cloudiness*, 
 When viewing the webiste, you will see the following figures:
 
 1. The **Summary page** containing a *Navbar*, a *summary* body and a *visualization* body. These three parts makes up the entire webiste.
-![summary page](WebVisualization/Resources/readme_image/summary.png)
+![summary page](https://github.com/Grace-Bijun-Li/web-design-challenge/blob/main/WebVisualization/Resources/readme_image/summary.PNG)
 
 2. In the **Navbar**, the word *Latitude* is clickable and serves as a *homepage* shortcut key. The *Plots* on the right is a dropdown menu of the four categories of analysis mentioned above. Clicking the item in the dropdown menu will allow you to access each of the analysis pages. The *Comparison* and *Data* to the right are also clickable to allow you to access to the **Comparison page** and the **Data page**.
-![navbar page](WebVisualization/Resources/readme_image/navbar.png)
+![navbar page](https://github.com/Grace-Bijun-Li/web-design-challenge/blob/main/WebVisualization/Resources/readme_image/navbar.PNG)
 
 3. The **Visualization** section is also clickable. You can click on each of the graphs within the section to access the respective page of the four categories.<br>
-![visualization page](WebVisualization/Resources/readme_image/visualization.png)
+![visualization page](https://github.com/Grace-Bijun-Li/web-design-challenge/blob/main/WebVisualization/Resources/readme_image/visualization.PNG)
 
 4. The **Comparison page** contains all of the visualizations on the same page so you can easily visual compare them. This can be accessed by clicking the word *Comparison* from the **Navbar**.
-![comparison page](WebVisualization/Resources/readme_image/comparison.png)
+![comparison page](https://github.com/Grace-Bijun-Li/web-design-challenge/blob/main/WebVisualization/Resources/readme_image/comparison.PNG)
 
 5. The **Data page** contains a table of the data used in the visualizations. This can also be accessed by clicking the word *Data* from the **Navbar**.
-![data page](WebVisualization/Resources/readme_image/data.png)
+![data page](https://github.com/Grace-Bijun-Li/web-design-challenge/blob/main/WebVisualization/Resources/readme_image/data.PNG)
 
 <br>
 Each of the pages is inter-related. Feel free to click through the diagrams and explore the website!
